@@ -1,6 +1,6 @@
 # react-fontawesome-list
 
-The fontawesome5 icon list component developed as React.js.
+Fontawesome5 Free icon list component developed as React.js.
 
 # Install
 
