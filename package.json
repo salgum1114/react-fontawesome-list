@@ -1,6 +1,6 @@
 {
   "name": "react-fontawesome-list",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "The fontawesome5 icon list component",
   "main": "index.js",
   "scripts": {
