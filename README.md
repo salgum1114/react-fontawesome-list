@@ -3,7 +3,7 @@
 Fontawesome5 Free icon list component developed as React.js.
 
 # Real Demo
-[React Design Editor](https://salgum1114.github.io/)
+[React Design Editor](https://salgum1114.github.io/react-design-editor)
 
 # Install
 
